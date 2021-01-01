@@ -1,0 +1,11 @@
+{
+  "name": "threejs-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mexanga/threejs-test.git",
+  "author": "Ulysse ARNAUD <mexanga@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.124.0"
+  }
+}
